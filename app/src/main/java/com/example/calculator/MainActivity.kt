@@ -29,11 +29,6 @@ class MainActivity : AppCompatActivity() {
         super.onResume()
         castViews()
 
-//        btnAdd.setOnClickListener {
-//            val intent = Intent(this, tvResult::class.java)
-//            sta
-//        }
-
     }
 
     fun castViews(){
